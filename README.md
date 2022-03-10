@@ -1,2 +1,1 @@
-# joerglohrer.github.io
-Webseite von Jörg Lohrer - joerg-lohrer.de
+# Webseite von Jörg Lohrer - joerg-lohrer.de
