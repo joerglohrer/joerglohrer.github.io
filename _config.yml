@@ -22,8 +22,7 @@ kramdown:
   input: GFM
 title: Jörg Lohrer
 email: info.empeiria@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Religion - Bildung - Erfahrung
+description: Religion - Bildung - Erfahrung
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://joerg-lohrer" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joerglohrer
