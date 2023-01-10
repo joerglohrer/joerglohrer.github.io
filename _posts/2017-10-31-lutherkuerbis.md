@@ -36,10 +36,11 @@ Ausschneiden:
 
 Mit Kerze oder elektrischem Licht ausstatten:
 ![](https://pixelfed.de/storage/m/_v2/518394810220430817/3079cad20-917577/ucARLqDC6Dh4/R9eQFuvIkwtkKiRZA0AVgbnzlro1iSY70LATiCVT.jpg)
+
 Fertig!
 
  
 
 Diese Idee inklusive der Schablone steht unter [CC0-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Du darfst das Werk kopieren, verändern, verbreiten und aufführen, sogar zu kommerziellen Zwecken, ohne um weitere Erlaubnis bitten zu müssen.
 #### Weitere Quellen
- * How to Make a Paper Cut-Out Luther Rose [YouTube](https://www.youtube.com/watch?v=b5FCaNZPU98) [PDF](http://www.kellyklages.com/lutherrose.pdf)
+ * How to Make a Paper Cut-Out Luther Rose [YouTube](https://www.youtube.com/watch?v=b5FCaNZPU98) | [PDF](http://www.kellyklages.com/lutherrose.pdf)
