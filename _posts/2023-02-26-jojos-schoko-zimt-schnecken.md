@@ -1,6 +1,6 @@
 ---
 title: Jojos Schocko-Zimt-Schnecken
-image: https://i.imgur.com/WrOQZqQ.jpg
+image: https://i.imgur.com/jKkLwQh.jpg
 tags: Schneckennudel, Hefeteig, Schoko, Zimt
 lang: de
 dir: ltr 
