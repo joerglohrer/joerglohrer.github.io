@@ -1,5 +1,5 @@
 ---
-title: Jojos Schocko-Zimt-Schnecken
+title: Jojos Schoko-Zimt-Schnecken
 image: https://i.imgur.com/jKkLwQh.jpg
 tags: Schneckennudel, Hefeteig, Schoko, Zimt
 lang: de
@@ -32,7 +32,7 @@ in der Zwischenzeit
 50g weißer Zucker
 100g Butter
 ½ Pk Vanillezucker
-3 g Zimt
+2 Teelöffel Zimt
 5 Teelöffel Kaba**
 verkneten zu einer cremigen Masse
 
