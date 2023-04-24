@@ -28,7 +28,7 @@ url: "https://joerg-lohrer" # the base hostname & protocol for your site, e.g. h
 twitter_username: joerglohrer
 github_username:  joerglohrer
 mastodon:
-  username: joerglohrer
+  - username: joerglohrer
   instance: reliverse.social
 
 # Build settings
