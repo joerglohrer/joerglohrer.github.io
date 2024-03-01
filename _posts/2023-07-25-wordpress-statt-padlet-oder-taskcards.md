@@ -1,11 +1,18 @@
 ---
-title: WordPress statt Padlet oder TaskCards
-description: Mit WordPress, horizontalem Scrolling und Beitragskategorien Sammlungen im Kanban-Style erstellen 
-image: https://i.imgur.com/UYuzsoM.gif
-tags: WordPress, Padlet, Kanban, TaskCards, horizontales Scrollen
+layout: post
+title: "WordPress statt Padlet oder TaskCards"
+description: "Mit WordPress, horizontalem Scrolling und Beitragskategorien Sammlungen im Kanban-Style erstellen"
+image: wordpress-horizontales-scrollen.gif
+tags: 
+  - WordPress
+  - Padlet
+  - Kanban
+  - TaskCards
+  - horizontales Scrollen
 lang: de
 dir: ltr
 ---
+
 
 
 Eine **Sammlung von Liedern für den Religionsunterricht** ist auf Instagram in Zusammenarbeit von [@relimomente](https://www.instagram.com/relimomente/) [@ezpz.lemon.sqz](https://www.instagram.com/ezpz.lemon.sqz) und [@colibri260](https://www.instagram.com/colibri260) entstanden und wurde zunächst **[hier auf TaskCards](https://www.taskcards.de/#/board/16af7347-ec26-468e-a093-34549dd2dae3/view)** veröffentlicht.
