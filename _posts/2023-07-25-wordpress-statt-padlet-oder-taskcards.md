@@ -3,7 +3,7 @@ layout: post
 title: "WordPress statt Padlet oder TaskCards"
 description: "Mit WordPress, horizontalem Scrolling und Beitragskategorien Sammlungen im Kanban-Style erstellen"
 image: wordpress-horizontales-scrollen.gif
-tags: ["QR-Code", "3DDruck"]
+tags: [WordPress, Padlet, Kanban, TaskCards, horizontales Scrollen]
 lang: de
 dir: ltr
 ---
